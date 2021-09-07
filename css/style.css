@@ -200,6 +200,14 @@ ol {
 .page-header__header-center .cart-logo, .page-header__header-center .cart-content{
 	display: inline-block;
 }
+.cart-total{
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+	background: url(../image/sprite.png) no-repeat scroll 0 0;
+    padding: 5px 0px 10px 55px;
+    display: block;
+}
 .page-header__header-center .cart-content a{
 	position: absolute;
 	text-transform: uppercase;
@@ -396,7 +404,7 @@ ol {
 }
 /*block-4*/
 .block-4{
-	background-image: url('../image/bl4-02.png');
+	background-image: url('../image/prlx.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
